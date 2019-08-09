@@ -1,0 +1,30 @@
+.eunmin-center {
+  display: block;
+  margin: 0 auto;
+}
+@media(max-width: 996px) {
+  .calendar-off{
+  display: none;
+  }
+}
+
+h3 {
+  color: #c99700;
+}
+
+#member-cell{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#member-image{
+    margin-top: 40px;
+}
+
+@media(max-width: 762px){
+  #member-image{
+      margin-top: 20px;
+      margin-left: 20px;
+      width: 40%;
+  }
+}
